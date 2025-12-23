@@ -1,7 +1,7 @@
 # 💫 About Lakshmi Prasanna:
 🎓 I’m a 2nd-year btech student at KL University
 
-🌱 Currently learning: Machine Learning & Data Science
+🌱 Currently learning: Artificial Intelligence & Data Science
 
 🔭 Working on: ML-based mini projects and data analysis tasks
 
